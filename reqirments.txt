@@ -1,0 +1,8 @@
+openai
+streamlit
+tavily
+reportlab
+requests
+python-dotenv
+authlib
+PyYAML
